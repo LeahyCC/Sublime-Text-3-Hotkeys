@@ -11,7 +11,7 @@
 8. [Text](#Text)
 
 ### <a name="Editing">Editing</a>
-###### Keypress	Command
+*Keypress	Command*
 * Ctrl + X	Cut line
 * Ctrl + ↩	Insert line after
 * Ctrl + ⇧ + ↩	Insert line before
