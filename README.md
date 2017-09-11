@@ -11,7 +11,6 @@
 8. [Text](#Text)
 
 ### <a name="Editing">Editing</a>
-*Keypress	Command*
 * Ctrl + X	Cut line
 * Ctrl + ↩	Insert line after
 * Ctrl + ⇧ + ↩	Insert line before
@@ -40,26 +39,22 @@
 * Ctrl + Alt + Down	Column selection down
 
 ### <a name="Navigation">Navigation/Goto Anywhere</a>
-###### Keypress	Command
 * Ctrl + P	Quick-open files by name
 * Ctrl + R	Goto symbol
 * Ctrl + ;	Goto word in current file
 * Ctrl + G	Goto line in current file
 
 ### <a name="General">General</a>
-###### Keypress	Command
 * Ctrl + ⇧ + P	Command prompt
 * Ctrl + KB	Toggle side bar
 * Ctrl + ⇧ + Alt + P	Show scope in status bar
 
 ### <a name="Find">Find/Replace</a>
-###### Keypress	Command
 * Ctrl + F	Find
 * Ctrl + H	Replace
 * Ctrl + ⇧ + F	Find in files
 
 ### <a name="Tabs">Tabs</a>
-###### Keypress	Command
 * Ctrl + ⇧ + t	Open last closed tab
 * Ctrl + PgUp	Cycle up through tabs
 * Ctrl + PgDn	Cycle down through tabs
@@ -68,7 +63,6 @@
 * Alt + [NUM]	Switch to tab number [NUM] where [NUM] <= number of tabs
 
 ### <a name="Split">Split window</a>
-###### Keypress	Command
 * Alt + ⇧ + 1	Revert view to single column
 * Alt + ⇧ + 2	Split view into two columns
 * Alt + ⇧ + 3	Split view into three columns
@@ -79,14 +73,12 @@
 * Ctrl + ⇧ + [NUM]	Move file to specified group where num is 1-4
 
 ### <a name="Bookmarks">Bookmarks</a>
-######  Keypress	Command
 * Ctrl + F2	Toggle bookmark
 * F2	Next bookmark
 * ⇧ + F2	Previous bookmark
 * Ctrl + ⇧ + F2	Clear bookmarks
 
 ### <a name="Text">Text manipulation</a>
-###### Keypress	Command
 * Ctrl + KU	Transform to Uppercase
 * Ctrl + KL	Transform to Lowercase
 
