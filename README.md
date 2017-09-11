@@ -1,7 +1,14 @@
 # Sublime-Text-3-Hotkeys
 ## Overview of Sublime Text 3 hotkey mapping - Windows Only
+
 1. [Editing](#Editing)
-2. [Editing](#Editing)
+2. [Navigation](#Navigation)
+3. [General](#General)
+4. [Find](#Find)
+5. [Tabs](#Tabs)
+6. [Split](#Split)
+7. [Bookmarks](#Bookmarks)
+8. [Text](#Text)
 
 # <a name="Editing">Editing</a>
 ###### Keypress	Command
@@ -32,27 +39,26 @@
 * Ctrl + Alt + Up	Column selection up
 * Ctrl + Alt + Down	Column selection down
 
-
-# Navigation/Goto Anywhere
+# <a name="Navigation">Navigation/Goto Anywhere</a>
 ###### Keypress	Command
 * Ctrl + P	Quick-open files by name
 * Ctrl + R	Goto symbol
 * Ctrl + ;	Goto word in current file
 * Ctrl + G	Goto line in current file
 
-# General	
+# <a name="General">General</a>
 ###### Keypress	Command
 * Ctrl + ⇧ + P	Command prompt
 * Ctrl + KB	Toggle side bar
 * Ctrl + ⇧ + Alt + P	Show scope in status bar
 
-# Find/Replace	
+# <a name="Find">Find/Replace</a>
 ###### Keypress	Command
 * Ctrl + F	Find
 * Ctrl + H	Replace
 * Ctrl + ⇧ + F	Find in files
 
-# Tabs	
+# <a name="Tabs">Tabs</a>
 ###### Keypress	Command
 * Ctrl + ⇧ + t	Open last closed tab
 * Ctrl + PgUp	Cycle up through tabs
@@ -61,7 +67,7 @@
 * Ctrl + W	Close current tab
 * Alt + [NUM]	Switch to tab number [NUM] where [NUM] <= number of tabs
 
-# Split window	
+# <a name="Split">Split window</a>
 ###### Keypress	Command
 * Alt + ⇧ + 1	Revert view to single column
 * Alt + ⇧ + 2	Split view into two columns
@@ -72,14 +78,14 @@
 * Ctrl + [NUM]	Jump to group where num is 1-4
 * Ctrl + ⇧ + [NUM]	Move file to specified group where num is 1-4
 
-# Bookmarks	
+# <a name="Bookmarks">Bookmarks</a>
 ######  Keypress	Command
 * Ctrl + F2	Toggle bookmark
 * F2	Next bookmark
 * ⇧ + F2	Previous bookmark
 * Ctrl + ⇧ + F2	Clear bookmarks
 
-# Text manipulation
+# <a name="Text">Text manipulation</a>
 ###### Keypress	Command
 * Ctrl + KU	Transform to Uppercase
 * Ctrl + KL	Transform to Lowercase
