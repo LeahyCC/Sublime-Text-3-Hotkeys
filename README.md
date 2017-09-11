@@ -1,6 +1,7 @@
 # Sublime-Text-3-Hotkeys
 ## Overview of Sublime Text 3 hotkey mapping - Windows Only
-#### [Editing](#Editing)
+1. #### [Editing](#Editing)
+2. #### [Editing](#Editing)
 
 # <a name="Editing">Editing</a>
 ###### Keypress	Command
