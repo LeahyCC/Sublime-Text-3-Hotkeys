@@ -2,7 +2,7 @@
 ## Overview of Sublime Text 3 hotkey mapping - Windows Only
 # [Editing](#Editing)
 
-# [Editing](#Editing)
+# <a name="Editing">Editing</a>
 ###### Keypress	Command
 * Ctrl + X	Cut line
 * Ctrl + ↩	Insert line after
