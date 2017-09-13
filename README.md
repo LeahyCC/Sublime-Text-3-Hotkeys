@@ -1,9 +1,9 @@
 
 
-https://github.com/titoBouzout/SideBarEnhancements/tree/st3
-https://packagecontrol.io/packages/Emmet
-https://packagecontrol.io/packages/Sass
-https://packagecontrol.io/packages/SublimeCodeIntel
+* https://github.com/titoBouzout/SideBarEnhancements/tree/st3
+* https://packagecontrol.io/packages/Emmet
+* https://packagecontrol.io/packages/Sass
+* https://packagecontrol.io/packages/SublimeCodeIntel
 
 
 # Sublime-Text-3-Hotkeys
