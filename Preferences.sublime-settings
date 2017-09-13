@@ -21,22 +21,24 @@
 
 {
 	"color_scheme": "Packages/Color Scheme - Default/Mariana.tmTheme",
-	"theme": "ayu-mirage.sublime-theme",
 	"folder_exclude_patterns":
 	[
 		".git"
 	],
 	"font_size": 9,
 	"highlight_line": true,
-	"translate_tabs_to_spaces": true,
 	"ignored_packages":
 	[
 		"Vintage"
 	],
-	"ui_separator": true,
-	"ui_font_size_small": true,
+	"scroll_past_end": true,
+	"theme": "ayu-mirage.sublime-theme",
+	"translate_tabs_to_spaces": true,
 	"ui_fix_tab_labels": true,
-	// "ui_font_source_code_pro":  true  use [Source Code Pro](https://fonts.google.com/specimen/Source+Code+Pro) for UI
 	"ui_font_default": true,
-	"ui_sidebar_highlight_row": true
+	// "ui_font_source_code_pro":  true  use [Source Code Pro](https://fonts.google.com/specimen/Source+Code+Pro) for UI
+	"ui_font_size_small": true,
+	"ui_separator": true,
+	"ui_sidebar_highlight_row": true,
+	"word_wrap": false
 }
