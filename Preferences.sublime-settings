@@ -42,3 +42,62 @@
 	"ui_sidebar_highlight_row": true,
 	"word_wrap": false
 }
+
+
+
+
+
+
+
+
+{
+	"always_show_minimap_viewport": true,
+	"color_scheme": "Packages/Boxy Theme/schemes/Boxy Tomorrow.tmTheme",
+	"folder_exclude_patterns":
+	[
+		".git"
+	],
+	"font_size": 10,
+	"highlight_line": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"scroll_past_end": true,
+	"theme": "Boxy Tomorrow.sublime-theme",
+	"theme_accent_sky": true,
+	"theme_autocomplete_item_selected_colored": true,
+	"theme_dirty_colored_always": true,
+	"theme_dropdown_atomized": true,
+	"theme_find_panel_size_xs": true,
+	"theme_grid_border_size_xs": true,
+	"theme_panel_switcher_materialized": true,
+	"theme_popup_border_visible": true,
+	"theme_quick_panel_border_visible": true,
+	"theme_quick_panel_item_selected_colored": true,
+	"theme_scrollbar_colored": true,
+	"theme_scrollbar_line": true,
+	"theme_scrollbar_rounded": true,
+	"theme_scrollbar_semi_overlayed": true,
+	"theme_sidebar_disclosure": false,
+	"theme_sidebar_folder_arrow": true,
+	"theme_sidebar_folder_mono": true,
+	"theme_sidebar_font_sm": true,
+	"theme_sidebar_heading_bold": true,
+	"theme_sidebar_indent_top_level_disabled": true,
+	"theme_sidebar_size_xxs": true,
+	"theme_size_xs": true,
+	"theme_statusbar_size_xs": true,
+	"theme_tab_arrows_hidden": true,
+	"theme_tab_font_sm": true,
+	"theme_tab_mouse_wheel_switch": true,
+	"theme_tab_selected_overlined": true,
+	"theme_tab_selected_transparent": false,
+	"theme_tab_selected_underlined": true,
+	"theme_tab_separator": true,
+	"theme_tab_width_auto": true,
+	"theme_unified": true,
+	"translate_tabs_to_spaces": true,
+	"word_wrap": false
+}
+
